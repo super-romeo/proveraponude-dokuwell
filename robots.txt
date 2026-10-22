@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proveraponude.dokufolio.com/sitemap.xml
